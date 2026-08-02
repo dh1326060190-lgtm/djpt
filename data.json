@@ -1,5 +1,5 @@
 {
-  "currentPage": "wedding",
+  "currentPage": "diet",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -440,194 +440,38 @@
         "wedding": true
       }
     ],
-    "files": [
-      {
-        "id": "f1",
-        "name": "婚宴酒店报价单-A.docx",
-        "time": "2026-07-18",
-        "type": "doc"
-      },
-      {
-        "id": "f2",
-        "name": "装修合同-初稿.pdf",
-        "time": "2026-07-22",
-        "type": "pdf"
-      },
-      {
-        "id": "f3",
-        "name": "婚庆策划方案.pdf",
-        "time": "2026-07-26",
-        "type": "pdf"
-      }
-    ]
+    "files": []
   },
   "savings": [
     {
-      "id": "s1",
-      "name": "婚礼备用金",
-      "target": 50000,
-      "deadline": "2026-11-30",
-      "note": "应对临时支出",
+      "id": "skwwyzy5tp",
+      "name": "备用金",
+      "target": 15000,
+      "deadline": "2027-08-02",
+      "note": "",
       "records": [
         {
-          "id": "r1",
-          "time": "2026-07-05",
-          "amount": 3000,
-          "note": "工资"
-        },
-        {
-          "id": "r2",
-          "time": "2026-07-20",
-          "amount": 2500,
-          "note": "兼职"
-        }
-      ]
-    },
-    {
-      "id": "s2",
-      "name": "蜜月旅行",
-      "target": 30000,
-      "deadline": "2026-12-10",
-      "note": "境外游",
-      "records": [
-        {
-          "id": "r3",
-          "time": "2026-07-10",
-          "amount": 2000,
-          "note": "工资"
-        }
-      ]
-    },
-    {
-      "id": "s3",
-      "name": "新房家电",
-      "target": 20000,
-      "deadline": "2026-10-01",
-      "note": "空调+冰箱",
-      "records": [
-        {
-          "id": "r4",
-          "time": "2026-07-15",
-          "amount": 1500,
+          "id": "r80h6m7gky",
+          "time": "2026-08-02",
+          "amount": 30,
           "note": "结余"
         }
       ]
     }
   ],
-  "transactions": [
-    {
-      "id": "x1",
-      "type": "income",
-      "cat": "工资",
-      "amount": 12000,
-      "time": "2026-07-05",
-      "note": "月度工资",
-      "toSaving": "s1",
-      "toWedding": false
-    },
-    {
-      "id": "x2",
-      "type": "income",
-      "cat": "兼职",
-      "amount": 2500,
-      "time": "2026-07-20",
-      "note": "设计外包",
-      "toSaving": "s1",
-      "toWedding": false
-    },
-    {
-      "id": "x3",
-      "type": "expense",
-      "cat": "其他杂费",
-      "amount": 2800,
-      "time": "2026-07-12",
-      "note": "婚庆咨询定金",
-      "toSaving": null,
-      "toWedding": true
-    },
-    {
-      "id": "x4",
-      "type": "expense",
-      "cat": "服饰首饰支出",
-      "amount": 6800,
-      "time": "2026-07-20",
-      "note": "对戒定金",
-      "toSaving": null,
-      "toWedding": true
-    },
-    {
-      "id": "x5",
-      "type": "expense",
-      "cat": "物料采购支出",
-      "amount": 1200,
-      "time": "2026-07-26",
-      "note": "喜糖样品",
-      "toSaving": null,
-      "toWedding": true
-    },
-    {
-      "id": "x6",
-      "type": "expense",
-      "cat": "餐饮",
-      "amount": 860,
-      "time": "2026-07-08",
-      "note": "聚餐",
-      "toSaving": null,
-      "toWedding": false
-    },
-    {
-      "id": "x7",
-      "type": "expense",
-      "cat": "购物",
-      "amount": 540,
-      "time": "2026-07-15",
-      "note": "日用品",
-      "toSaving": null,
-      "toWedding": false
-    },
-    {
-      "id": "x8",
-      "type": "expense",
-      "cat": "交通",
-      "amount": 320,
-      "time": "2026-07-22",
-      "note": "打车",
-      "toSaving": null,
-      "toWedding": false
-    },
-    {
-      "id": "x9",
-      "type": "income",
-      "cat": "工资",
-      "amount": 12000,
-      "time": "2026-06-05",
-      "note": "6月工资",
-      "toSaving": null,
-      "toWedding": false
-    },
-    {
-      "id": "x10",
-      "type": "expense",
-      "cat": "餐饮",
-      "amount": 2100,
-      "time": "2026-06-12",
-      "note": "6月餐饮",
-      "toSaving": null,
-      "toWedding": false
-    }
-  ],
+  "transactions": [],
   "diet": {
     "today": {
       "date": "2026-07-30",
       "meals": {
         "早餐": {
-          "done": true,
-          "kcal": 380,
+          "done": false,
+          "kcal": 0,
           "photo": "🥪"
         },
         "午餐": {
-          "done": true,
-          "kcal": 620,
+          "done": false,
+          "kcal": 0,
           "photo": "🍱"
         },
         "晚餐": {
@@ -639,23 +483,7 @@
       "target": 1800
     },
     "monthRate": 0.82,
-    "history": [
-      {
-        "date": "2026-07-29",
-        "kcal": 1720,
-        "rate": 1
-      },
-      {
-        "date": "2026-07-28",
-        "kcal": 1980,
-        "rate": 0.9
-      },
-      {
-        "date": "2026-07-27",
-        "kcal": 1650,
-        "rate": 1
-      }
-    ]
+    "history": []
   },
   "moods": [
     {
