@@ -1,5 +1,5 @@
 {
-  "currentPage": "today",
+  "currentPage": "create",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -50,20 +50,10 @@
       "title": "采购喜糖样品",
       "cat": "备婚",
       "due": "2026-07-30 16:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "对比 3 家",
       "remind": true,
-      "doneAt": null
-    },
-    {
-      "id": "t6",
-      "title": "设计稿终稿交付",
-      "cat": "工作",
-      "due": "2026-07-30 17:30",
-      "status": "进行中",
-      "note": "客户评审",
-      "remind": true,
-      "doneAt": null
+      "doneAt": "2026-07-31"
     }
   ],
   "topics": [
@@ -81,7 +71,7 @@
       "title": "婚房收纳 30 个神仙好物",
       "platform": "抖音",
       "track": "备婚",
-      "status": "已拍摄",
+      "status": "未拍摄",
       "script": "",
       "note": ""
     },
