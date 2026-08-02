@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "hot",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -15,6 +15,116 @@
     "cloudSync": true
   },
   "todayTasks": [
+    {
+      "id": "ts6kyyqs0x",
+      "title": "复盘视频：收房千万别先签字！90%%的业主都踩过这个坑 ",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "抖音",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tfvu5rjs0w",
+      "title": "复盘视频：拒绝收房踩坑 新手收房必查全部重点 新手零经验直接抄",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "抖音",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "t4x42cks0w",
+      "title": "复盘视频：房产公司说这个是符合标准的，这正常吗。涂料坑坑洼洼",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "抖音",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "t59wd12s0w",
+      "title": "复盘视频：拒绝收房踩坑新手收房必查全部重点 新手零经验直接照抄",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "抖音",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tawu3tes0v",
+      "title": "复盘视频：收房千万别先签字！90% 的业主都踩过这个坑",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "小红书",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tc87e2os0v",
+      "title": "复盘视频：房产公司说这个是符合标准的，这正常吗 涂料坑坑洼洼",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "小红书",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "twj2bhzs0v",
+      "title": "排版发布：本周验房实录（草稿）",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "公众号",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tmigd8vs0u",
+      "title": "排版发布：备婚预算怎么分配最合理",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "公众号",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tkypw5js0t",
+      "title": "脚本+拍摄：本地婚礼跟拍避坑指南",
+      "cat": "自媒体",
+      "due": "2026-08-02 18:00",
+      "status": "待办",
+      "note": "小红书 / 本地生活",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "tidol68s0s",
+      "title": "【备婚】叶酸等营养补充",
+      "cat": "备婚",
+      "due": "2026-08-01 18:00",
+      "status": "待办",
+      "note": "婚前体检 & 备孕准备",
+      "remind": true,
+      "doneAt": null
+    },
+    {
+      "id": "t1dt2vis0s",
+      "title": "【备婚】确定装修公司",
+      "cat": "备婚",
+      "due": "2026-08-15 18:00",
+      "status": "待办",
+      "note": "婚房装修 & 收房验收",
+      "remind": true,
+      "doneAt": null
+    },
     {
       "id": "t1",
       "title": "确认婚宴酒店菜单",
