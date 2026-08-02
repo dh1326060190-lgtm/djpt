@@ -1,5 +1,5 @@
 {
-  "currentPage": "review",
+  "currentPage": "today",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -20,10 +20,10 @@
       "title": "确认婚宴酒店菜单",
       "cat": "备婚",
       "due": "2026-07-30 14:00",
-      "status": "进行中",
+      "status": "已完成",
       "note": "核对忌口与桌数",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-07-31"
     },
     {
       "id": "t2",
@@ -36,20 +36,10 @@
       "doneAt": "2026-07-30 11:10"
     },
     {
-      "id": "t3",
-      "title": "公众号周更文章排版",
-      "cat": "自媒体",
-      "due": "2026-07-30 18:00",
-      "status": "待办",
-      "note": "装修避坑合集",
-      "remind": false,
-      "doneAt": null
-    },
-    {
       "id": "t4",
       "title": "备婚预算台账复核",
       "cat": "备婚",
-      "due": "2026-07-28 20:00",
+      "due": "2026-09-30T20:00",
       "status": "逾期",
       "note": "超支预警",
       "remind": true,
