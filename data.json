@@ -1,5 +1,5 @@
 {
-  "currentPage": "setting",
+  "currentPage": "wedding",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -248,7 +248,7 @@
   ],
   "wedding": {
     "weddingDate": "2026-09-28",
-    "totalBudget": 200000,
+    "totalBudget": 50000,
     "groups": {
       "婚房装修 & 收房验收": [
         {
@@ -416,31 +416,50 @@
     },
     "budgetLedger": [
       {
-        "id": "b1",
-        "time": "2026-07-12",
+        "id": "bxlxb9nqks",
+        "time": "2026-04-24",
         "cat": "其他杂费",
-        "amount": 2800,
-        "note": "婚庆咨询定金",
+        "amount": 6999,
+        "note": "婚纱照",
         "wedding": true
       },
       {
-        "id": "b2",
-        "time": "2026-07-20",
-        "cat": "服饰首饰支出",
-        "amount": 6800,
-        "note": "对戒定金",
+        "id": "bqyvud7chx",
+        "time": "2026-06-30",
+        "cat": "其他杂费",
+        "amount": 5000,
+        "note": "婚礼订桌定金",
         "wedding": true
       },
       {
-        "id": "b3",
-        "time": "2026-07-26",
-        "cat": "物料采购支出",
-        "amount": 1200,
-        "note": "喜糖样品",
+        "id": "b3htjdfrnx",
+        "time": "2026-08-01",
+        "cat": "其他杂费",
+        "amount": 280,
+        "note": "第一次喜糖采购",
         "wedding": true
       }
     ],
-    "files": []
+    "files": [
+      {
+        "id": "f1",
+        "name": "婚宴酒店报价单-A.docx",
+        "time": "2026-07-18",
+        "type": "doc"
+      },
+      {
+        "id": "f2",
+        "name": "装修合同-初稿.pdf",
+        "time": "2026-07-22",
+        "type": "pdf"
+      },
+      {
+        "id": "f3",
+        "name": "婚庆策划方案.pdf",
+        "time": "2026-07-26",
+        "type": "pdf"
+      }
+    ]
   },
   "savings": [
     {
