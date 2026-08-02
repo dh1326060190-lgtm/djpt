@@ -1,5 +1,5 @@
 {
-  "currentPage": "review",
+  "currentPage": "svreview",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -531,49 +531,19 @@
   ],
   "svreviews": [
     {
-      "id": "sv1",
+      "id": "svsv67dnkk3",
       "platform": "抖音",
-      "title": "毛坯房验收 9 个必查点",
-      "link": "https://v.douyin.com/example1",
-      "publishDate": "2026-07-22",
-      "play": 125000,
-      "like": 8600,
-      "comment": 540,
-      "fav": 3200,
-      "share": 1100,
-      "finish": 42,
+      "title": "收房千万别先签字！90%%的业主都踩过这个坑 ",
+      "link": "https://v.douyin.com/pYN4xOVWUPE/ 07/20 H@I.Vy :3pm XZZ:/ ",
+      "publishDate": "2026-07-24",
+      "play": 558,
+      "like": 8,
+      "comment": 2,
+      "fav": 1,
+      "share": 1,
+      "finish": 1.23,
       "tag": "验房",
-      "note": "开头用「花几十万买房」制造焦虑钩子，完播拉满；结尾引导关注下期。"
-    },
-    {
-      "id": "sv2",
-      "platform": "小红书",
-      "title": "备婚收纳 30 个好物",
-      "link": "https://www.xiaohongshu.com/example2",
-      "publishDate": "2026-07-25",
-      "play": 38000,
-      "like": 2100,
-      "comment": 80,
-      "fav": 1500,
-      "share": 120,
-      "finish": 18,
-      "tag": "备婚",
-      "note": "收藏还行但完播掉得厉害，中段铺垫太长。"
-    },
-    {
-      "id": "sv3",
-      "platform": "视频号",
-      "title": "本地婚礼跟拍避坑",
-      "link": "https://weixin.qq.com/example3",
-      "publishDate": "2026-07-28",
-      "play": 9600,
-      "like": 720,
-      "comment": 210,
-      "fav": 300,
-      "share": 95,
-      "finish": 35,
-      "tag": "本地生活",
-      "note": "评论率异常高，话题性强，适合做系列。"
+      "note": ""
     }
   ],
   "materials": [
