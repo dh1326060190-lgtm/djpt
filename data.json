@@ -1,5 +1,5 @@
 {
-  "currentPage": "diet",
+  "currentPage": "review",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -485,22 +485,7 @@
     "monthRate": 0.82,
     "history": []
   },
-  "moods": [
-    {
-      "id": "m1",
-      "date": "2026-07-29",
-      "mood": "平静",
-      "weather": "☀️ 晴",
-      "text": "验收顺利，装修公司也聊得不错。"
-    },
-    {
-      "id": "m2",
-      "date": "2026-07-28",
-      "mood": "焦虑",
-      "weather": "🌧️ 雨",
-      "text": "预算有点超，得再规划一下。"
-    }
-  ],
+  "moods": [],
   "reviews": [
     {
       "id": "rv1",
