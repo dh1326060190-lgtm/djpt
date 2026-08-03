@@ -803,6 +803,14 @@
           "note": "结余"
         }
       ]
+    },
+    {
+      "id": "stpqpkuwsa",
+      "name": "一起去旅行",
+      "target": 5000,
+      "deadline": "2026-11-30",
+      "note": "",
+      "records": []
     }
   ],
   "transactions": [],
