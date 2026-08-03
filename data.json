@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "material",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -816,17 +816,17 @@
   "transactions": [],
   "diet": {
     "today": {
-      "date": "2026-07-30",
+      "date": "2026-08-03",
       "meals": {
         "早餐": {
           "done": false,
           "kcal": 0,
-          "photo": "🥪"
+          "photo": null
         },
         "午餐": {
           "done": false,
           "kcal": 0,
-          "photo": "🍱"
+          "photo": null
         },
         "晚餐": {
           "done": false,
@@ -839,7 +839,15 @@
     "monthRate": 0.82,
     "history": []
   },
-  "moods": [],
+  "moods": [
+    {
+      "id": "msu8n86wdu",
+      "date": "2026-08-03",
+      "mood": "平静",
+      "weather": "晴",
+      "text": "目前没啥事"
+    }
+  ],
   "reviews": [],
   "svreviews": [
     {
