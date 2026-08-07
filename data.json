@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "saving",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -809,14 +809,20 @@
           "note": "结余"
         },
         {
-          "id": "rm39253w2g",
-          "time": "2026-08-04",
+          "id": "r21wb9tblb",
+          "time": "2026-08-05",
           "amount": 30,
           "note": "结余"
         },
         {
-          "id": "r21wb9tblb",
-          "time": "2026-08-05",
+          "id": "r7wevzy6tl",
+          "time": "2026-08-06",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "r9p1zxwgki",
+          "time": "2026-08-07",
           "amount": 30,
           "note": "结余"
         }
@@ -831,7 +837,18 @@
       "records": []
     }
   ],
-  "transactions": [],
+  "transactions": [
+    {
+      "id": "xyubxal9e9",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 16.7,
+      "time": "2026-08-07",
+      "note": "大排梳",
+      "toSaving": null,
+      "toWedding": false
+    }
+  ],
   "diet": {
     "today": {
       "date": "2026-08-03",
