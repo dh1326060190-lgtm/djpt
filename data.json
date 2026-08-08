@@ -854,6 +854,16 @@
   ],
   "transactions": [
     {
+      "id": "xk9g72t1tg",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 65.1,
+      "time": "2026-08-08",
+      "note": "塔斯汀",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
       "id": "x2wazf94mb",
       "type": "expense",
       "cat": "购物",
