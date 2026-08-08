@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -778,6 +778,15 @@
         "amount": 280,
         "note": "第一次喜糖采购",
         "wedding": true
+      },
+      {
+        "id": "bmcih484md",
+        "time": "2026-08-08",
+        "cat": "其他杂费",
+        "note": "主纱和敬酒服",
+        "amount": 1880,
+        "wedding": true,
+        "src": "x2wazf94mb"
       }
     ],
     "files": []
@@ -831,12 +840,6 @@
           "time": "2026-08-08",
           "amount": 30,
           "note": "结余"
-        },
-        {
-          "id": "rvu5h0eorl",
-          "time": "2026-08-08",
-          "amount": 30,
-          "note": "结余"
         }
       ]
     },
@@ -850,6 +853,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "x2wazf94mb",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 1880,
+      "time": "2026-08-08",
+      "note": "主纱和敬酒服",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "xyubxal9e9",
       "type": "expense",
