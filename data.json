@@ -854,6 +854,26 @@
   ],
   "transactions": [
     {
+      "id": "xjhkq6xal8",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 49,
+      "time": "2026-08-08",
+      "note": "奶茶",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xdgw5epa6z",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 90,
+      "time": "2026-08-08",
+      "note": "午餐米线",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
       "id": "xk9g72t1tg",
       "type": "expense",
       "cat": "餐饮",
