@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -872,6 +872,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "xatbro4vv4",
+      "type": "expense",
+      "cat": "居住",
+      "amount": 8.8,
+      "time": "2026-08-09",
+      "note": "防撞",
+      "toSaving": null,
+      "toWedding": false
+    },
     {
       "id": "xjhkq6xal8",
       "type": "expense",
