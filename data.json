@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "saving",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -838,6 +838,18 @@
         {
           "id": "rnsks90nw9",
           "time": "2026-08-08",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "r5l99lh0rh",
+          "time": "2026-08-09",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "re7u24d1nf",
+          "time": "2026-08-09",
           "amount": 30,
           "note": "结余"
         }
