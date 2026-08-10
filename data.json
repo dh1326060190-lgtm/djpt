@@ -1,5 +1,5 @@
 {
-  "currentPage": "create",
+  "currentPage": "ledger",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -878,6 +878,26 @@
     }
   ],
   "transactions": [
+    {
+      "id": "xkakcny0dr",
+      "type": "expense",
+      "cat": "娱乐",
+      "amount": 25,
+      "time": "2026-08-10",
+      "note": "和平精英",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "x3vntdzyue",
+      "type": "expense",
+      "cat": "娱乐",
+      "amount": 25,
+      "time": "2026-08-10",
+      "note": "和平精英",
+      "toSaving": null,
+      "toWedding": false
+    },
     {
       "id": "xatbro4vv4",
       "type": "expense",
