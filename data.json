@@ -879,6 +879,26 @@
   ],
   "transactions": [
     {
+      "id": "x0nmos9n9k",
+      "type": "expense",
+      "cat": "交通",
+      "amount": 275.68,
+      "time": "2026-08-10",
+      "note": "加油",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xs1jgoxl31",
+      "type": "expense",
+      "cat": "交通",
+      "amount": 275.68,
+      "time": "2026-08-10",
+      "note": "加油",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
       "id": "xkakcny0dr",
       "type": "expense",
       "cat": "娱乐",
