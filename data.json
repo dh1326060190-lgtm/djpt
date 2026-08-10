@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "create",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -172,7 +172,7 @@
       "title": "毛坯房验收 9 个必查点",
       "platform": "小红书",
       "track": "验房",
-      "status": "已发布",
+      "status": "未拍摄",
       "script": "",
       "note": ""
     },
