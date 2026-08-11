@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -787,6 +787,15 @@
         "amount": 1880,
         "wedding": true,
         "src": "x2wazf94mb"
+      },
+      {
+        "id": "b68gexdlpl",
+        "time": "2026-08-10",
+        "cat": "其他杂费",
+        "note": "长明灯",
+        "amount": 27.8,
+        "wedding": true,
+        "src": "xsox3ghlpg"
       }
     ],
     "files": []
@@ -884,6 +893,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "xsox3ghlpg",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 27.8,
+      "time": "2026-08-10",
+      "note": "长明灯",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "x0nmos9n9k",
       "type": "expense",
