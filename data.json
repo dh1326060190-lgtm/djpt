@@ -805,6 +805,15 @@
         "amount": 5.4,
         "wedding": true,
         "src": "xclynxvvxr"
+      },
+      {
+        "id": "bgrht07yjm",
+        "time": "2026-07-31",
+        "cat": "其他杂费",
+        "note": "美纹纸",
+        "amount": 11,
+        "wedding": true,
+        "src": "x19dhswyjl"
       }
     ],
     "files": []
@@ -920,6 +929,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "x19dhswyjl",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 11,
+      "time": "2026-07-31",
+      "note": "美纹纸",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "xclynxvvxr",
       "type": "expense",
