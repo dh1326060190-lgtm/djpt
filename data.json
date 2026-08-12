@@ -796,6 +796,15 @@
         "amount": 21.42,
         "wedding": true,
         "src": "xu7u0r4rmc"
+      },
+      {
+        "id": "b72ns3cvxt",
+        "time": "2026-08-11",
+        "cat": "其他杂费",
+        "note": "喜糖包装样品",
+        "amount": 5.4,
+        "wedding": true,
+        "src": "xclynxvvxr"
       }
     ],
     "files": []
@@ -911,6 +920,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "xclynxvvxr",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 5.4,
+      "time": "2026-08-11",
+      "note": "喜糖包装样品",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "xu7u0r4rmc",
       "type": "expense",
