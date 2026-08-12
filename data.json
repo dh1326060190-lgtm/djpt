@@ -939,6 +939,16 @@
   ],
   "transactions": [
     {
+      "id": "xojxa1jlb6",
+      "type": "expense",
+      "cat": "居住",
+      "amount": 4697.22,
+      "time": "2026-08-01",
+      "note": "房贷第一期",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
       "id": "x6wfe0a1et",
       "type": "expense",
       "cat": "购物",
