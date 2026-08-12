@@ -939,6 +939,16 @@
   ],
   "transactions": [
     {
+      "id": "x6wfe0a1et",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 44,
+      "time": "2026-08-07",
+      "note": "小米智能开关3",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
       "id": "x3zp2s1ero",
       "type": "expense",
       "cat": "购物",
