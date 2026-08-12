@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -885,6 +885,12 @@
           "time": "2026-08-12",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "rvg5tic11k",
+          "time": "2026-08-12",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -905,6 +911,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "x55hrscd61",
+      "type": "income",
+      "cat": "其他",
+      "amount": 20000,
+      "time": "2026-08-09",
+      "note": "老妈转账，结婚买东西",
+      "toSaving": null,
+      "toWedding": false
+    },
     {
       "id": "xsox3ghlpg",
       "type": "expense",
