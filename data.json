@@ -814,6 +814,15 @@
         "amount": 11,
         "wedding": true,
         "src": "x19dhswyjl"
+      },
+      {
+        "id": "bg188x5erp",
+        "time": "2026-07-12",
+        "cat": "其他杂费",
+        "note": "婚房装饰",
+        "amount": 33.6,
+        "wedding": true,
+        "src": "x3zp2s1ero"
       }
     ],
     "files": []
@@ -929,6 +938,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "x3zp2s1ero",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 33.6,
+      "time": "2026-07-12",
+      "note": "婚房装饰",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "x19dhswyjl",
       "type": "expense",
