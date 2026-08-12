@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "today",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -20,30 +20,30 @@
       "title": "复盘视频：收房千万别先签字！90%%的业主都踩过这个坑 ",
       "cat": "自媒体",
       "due": "2026-08-02 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "抖音",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-12"
     },
     {
       "id": "tfvu5rjs0w",
       "title": "复盘视频：拒绝收房踩坑 新手收房必查全部重点 新手零经验直接抄",
       "cat": "自媒体",
       "due": "2026-08-02 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "抖音",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-12"
     },
     {
       "id": "t4x42cks0w",
       "title": "复盘视频：房产公司说这个是符合标准的，这正常吗。涂料坑坑洼洼",
       "cat": "自媒体",
       "due": "2026-08-02 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "抖音",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-12"
     },
     {
       "id": "t59wd12s0w",
@@ -60,20 +60,20 @@
       "title": "复盘视频：收房千万别先签字！90% 的业主都踩过这个坑",
       "cat": "自媒体",
       "due": "2026-08-02 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "小红书",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-12"
     },
     {
       "id": "tc87e2os0v",
       "title": "复盘视频：房产公司说这个是符合标准的，这正常吗 涂料坑坑洼洼",
       "cat": "自媒体",
       "due": "2026-08-02 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "小红书",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-12"
     },
     {
       "id": "twj2bhzs0v",
