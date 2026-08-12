@@ -782,6 +782,15 @@
         "amount": 11.1,
         "wedding": true,
         "src": "xm804j8bc2"
+      },
+      {
+        "id": "b989w2u6i2",
+        "time": "2026-08-12",
+        "cat": "其他杂费",
+        "note": "红色绑绳",
+        "amount": 14.8,
+        "wedding": true,
+        "src": "x0mswdo6hy"
       }
     ],
     "files": []
@@ -897,6 +906,16 @@
     }
   ],
   "transactions": [
+    {
+      "id": "x0mswdo6hy",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 14.8,
+      "time": "2026-08-12",
+      "note": "红色绑绳",
+      "toSaving": null,
+      "toWedding": true
+    },
     {
       "id": "xm804j8bc2",
       "type": "expense",
