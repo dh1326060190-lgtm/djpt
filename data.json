@@ -892,6 +892,12 @@
           "time": "2026-08-13",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "rsjvtgm33e",
+          "time": "2026-08-14",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -1149,6 +1155,51 @@
   ],
   "reviews": [],
   "svreviews": [
+    {
+      "id": "svkxw3x3uiz",
+      "platform": "抖音",
+      "title": "听听大家的意见# 装修进度打卡 # 毛胚房装修避坑 # 毛胚房装...",
+      "link": "7https://v.douyin.com/XAb5H2amfOM/ 01/18 anQ:/ L@W.Mj :9pm ",
+      "publishDate": "2026-08-12",
+      "play": 2013,
+      "like": 30,
+      "comment": 16,
+      "fav": 1,
+      "share": 0,
+      "finish": 0,
+      "tag": "装修",
+      "note": "划走率39.79%，文案展开率0.16%"
+    },
+    {
+      "id": "svi04tzl16f",
+      "platform": "抖音",
+      "title": "物业让先收房，后面一起改善，真的能收房吗。# 毛坯... ",
+      "link": "https://v.douyin.com/Vfqw02BE61I/ f@O.Kw eOk:/ 03/11 :4pm ",
+      "publishDate": "2026-08-07",
+      "play": 4232,
+      "like": 6,
+      "comment": 11,
+      "fav": 0,
+      "share": 0,
+      "finish": 0,
+      "tag": "装修",
+      "note": "划走率38.67%，文案展开率1.82%"
+    },
+    {
+      "id": "svqvee7t3es",
+      "platform": "抖音",
+      "title": "心里没有底，想问问大家装修都花了多少钱。# 装修",
+      "link": "5.33 复制打开抖音，看看【https://v.douyin.com/YgEVGOO-1MQ/ r@r.RX JII:/ :0pm 12/01 ",
+      "publishDate": "2026-08-05",
+      "play": 629,
+      "like": 3,
+      "comment": 11,
+      "fav": 0,
+      "share": 0,
+      "finish": 0,
+      "tag": "装修",
+      "note": "划走率35.13%，文案展开率0.35%"
+    },
     {
       "id": "svkjw35gqu0",
       "platform": "小红书",
