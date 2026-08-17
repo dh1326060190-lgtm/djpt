@@ -1188,6 +1188,15 @@
         "amount": 6000,
         "wedding": true,
         "src": "x3m1wp0a9k"
+      },
+      {
+        "id": "bnbl42thk1",
+        "time": "2026-08-17",
+        "cat": "其他杂费",
+        "note": "旺仔喜糖",
+        "amount": 27.4,
+        "wedding": true,
+        "src": "x2epxnbhjy"
       }
     ],
     "files": []
@@ -1610,6 +1619,16 @@
       "note": "雪碧",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "x2epxnbhjy",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 27.4,
+      "time": "2026-08-17",
+      "note": "旺仔喜糖",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
