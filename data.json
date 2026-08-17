@@ -1,5 +1,5 @@
 {
-  "currentPage": "svreview",
+  "currentPage": "setting",
   "settings": {
     "userName": "设计师 · 绘野",
     "theme": "green",
@@ -596,7 +596,7 @@
           "id": "w7",
           "title": "选定婚庆策划",
           "plan": "2026-08-20",
-          "status": "待办",
+          "status": "已完成",
           "note": ""
         },
         {
@@ -628,7 +628,7 @@
           "id": "w13",
           "title": "挑选主婚纱",
           "plan": "2026-09-15",
-          "status": "待办",
+          "status": "已完成",
           "note": ""
         },
         {
@@ -791,6 +791,42 @@
         "amount": 14.8,
         "wedding": true,
         "src": "x0mswdo6hy"
+      },
+      {
+        "id": "br1i0cb85e",
+        "time": "2026-08-15",
+        "cat": "其他杂费",
+        "note": "喜糖采购，枕头",
+        "amount": 328.7,
+        "wedding": true,
+        "src": "xl02md985c"
+      },
+      {
+        "id": "bgtusuipc9",
+        "time": "2026-08-16",
+        "cat": "其他杂费",
+        "note": "婚礼邀请函模板",
+        "amount": 2,
+        "wedding": true,
+        "src": "xrnxfbhpc8"
+      },
+      {
+        "id": "bljwe0nmy9",
+        "time": "2026-08-17",
+        "cat": "其他杂费",
+        "note": "好时巧克力",
+        "amount": 42.9,
+        "wedding": true,
+        "src": "xgli9rimy7"
+      },
+      {
+        "id": "bk063i4a9o",
+        "time": "2026-08-16",
+        "cat": "其他杂费",
+        "note": "婚庆布置",
+        "amount": 6000,
+        "wedding": true,
+        "src": "x3m1wp0a9k"
       }
     ],
     "files": []
@@ -852,12 +888,6 @@
           "note": "结余"
         },
         {
-          "id": "re7u24d1nf",
-          "time": "2026-08-09",
-          "amount": 30,
-          "note": "结余"
-        },
-        {
           "id": "rhjcias1dn",
           "time": "2026-08-10",
           "amount": 30,
@@ -870,19 +900,7 @@
           "note": "结余"
         },
         {
-          "id": "rw82vwfzy2",
-          "time": "2026-08-12",
-          "amount": 30,
-          "note": "结余"
-        },
-        {
           "id": "rr9y9470u4",
-          "time": "2026-08-12",
-          "amount": 30,
-          "note": "结余"
-        },
-        {
-          "id": "rvg5tic11k",
           "time": "2026-08-12",
           "amount": 30,
           "note": "结余"
@@ -896,6 +914,24 @@
         {
           "id": "rsjvtgm33e",
           "time": "2026-08-14",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "rr696hek70",
+          "time": "2026-08-15",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "ri1gvhzape",
+          "time": "2026-08-16",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "rkl4vjjfgt",
+          "time": "2026-08-17",
           "amount": 30,
           "note": "结余"
         }
@@ -912,6 +948,12 @@
           "id": "riiau3oiy9",
           "time": "2026-08-09",
           "amount": 13.14,
+          "note": "结余"
+        },
+        {
+          "id": "ry4vt3qkrn",
+          "time": "2026-08-16",
+          "amount": 13,
           "note": "结余"
         }
       ]
@@ -1117,6 +1159,86 @@
       "note": "大排梳",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "x3m1wp0a9k",
+      "type": "expense",
+      "cat": "其他",
+      "amount": 6000,
+      "time": "2026-08-16",
+      "note": "婚庆布置",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xgli9rimy7",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 42.9,
+      "time": "2026-08-17",
+      "note": "好时巧克力",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xh4440qnc1",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 135,
+      "time": "2026-08-16",
+      "note": "筷子",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xrnxfbhpc8",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 2,
+      "time": "2026-08-16",
+      "note": "婚礼邀请函模板",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xf9akrriiv",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 23.49,
+      "time": "2026-08-15",
+      "note": "面粉",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xv6x66yzq8",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 77.8,
+      "time": "2026-08-15",
+      "note": "李总生日礼物",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xy27linx5d",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 187.7,
+      "time": "2026-08-15",
+      "note": "",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xl02md985c",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 328.7,
+      "time": "2026-08-15",
+      "note": "喜糖采购，枕头",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
@@ -1342,13 +1464,5 @@
       "time": "2026-07-26"
     }
   ],
-  "materialCats": [
-    "封面模板",
-    "片头片尾",
-    "实拍素材",
-    "IP 素材",
-    "海报源文件",
-    "备婚素材",
-    "装修素材"
-  ]
+  "materialCats": []
 }
