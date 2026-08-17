@@ -1600,6 +1600,16 @@
       "note": "喜糖采购，枕头",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "x05hfmos13",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 3,
+      "time": "2026-08-17",
+      "note": "雪碧",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
