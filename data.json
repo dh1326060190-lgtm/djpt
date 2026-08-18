@@ -1224,6 +1224,15 @@
         "amount": 74.8,
         "wedding": true,
         "src": "xua26gvo7l"
+      },
+      {
+        "id": "bhoo62lh7n",
+        "time": "2026-08-18",
+        "cat": "其他杂费",
+        "note": "婚礼用品采购",
+        "amount": 454.5,
+        "wedding": true,
+        "src": "x9qxgc4h7k"
       }
     ],
     "files": []
@@ -1726,6 +1735,16 @@
       "note": "手套",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "x9qxgc4h7k",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 454.5,
+      "time": "2026-08-18",
+      "note": "婚礼用品采购",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
