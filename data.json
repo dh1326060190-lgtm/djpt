@@ -1206,6 +1206,15 @@
         "amount": 116,
         "wedding": true,
         "src": "x05geg0043"
+      },
+      {
+        "id": "brckummhjk",
+        "time": "2026-08-18",
+        "cat": "其他杂费",
+        "note": "普通喜糖盒子",
+        "amount": 17,
+        "wedding": true,
+        "src": "xqh9kdohjg"
       }
     ],
     "files": []
@@ -1666,6 +1675,16 @@
       "amount": 70,
       "time": "2026-08-17",
       "note": "喜糖包装",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xqh9kdohjg",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 17,
+      "time": "2026-08-18",
+      "note": "普通喜糖盒子",
       "toSaving": null,
       "toWedding": true
     }
