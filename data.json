@@ -1215,6 +1215,15 @@
         "amount": 17,
         "wedding": true,
         "src": "xqh9kdohjg"
+      },
+      {
+        "id": "bo4p7mao7q",
+        "time": "2026-08-18",
+        "cat": "其他杂费",
+        "note": "喜糖",
+        "amount": 74.8,
+        "wedding": true,
+        "src": "xua26gvo7l"
       }
     ],
     "files": []
@@ -1697,6 +1706,16 @@
       "note": "董颖手机壳",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xua26gvo7l",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 74.8,
+      "time": "2026-08-18",
+      "note": "喜糖",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
