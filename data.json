@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1687,6 +1687,16 @@
       "note": "普通喜糖盒子",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xfqtijtenr",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 15.9,
+      "time": "2026-08-18",
+      "note": "董颖手机壳",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
