@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "svreview",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1349,6 +1349,12 @@
           "time": "2026-08-17",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "rns28tm3xn",
+          "time": "2026-08-19",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -1936,6 +1942,22 @@
       "finish": 1.23,
       "tag": "验房",
       "note": ""
+    },
+    {
+      "id": "svszgjzos8v",
+      "platform": "抖音",
+      "form": "图文",
+      "title": "为什么装修公司报价和自装差不多",
+      "link": "https://v.douyin.com/aJ_UD_qA3Hw/ :8pm c@A.go 11/25 FuF:/ ",
+      "publishDate": "2026-08-14",
+      "play": 34000,
+      "like": 42,
+      "comment": 114,
+      "fav": 6,
+      "share": 2,
+      "finish": 0,
+      "tag": "装修",
+      "note": "划走率29.92%，文案展开率0.06%"
     }
   ],
   "materials": [
