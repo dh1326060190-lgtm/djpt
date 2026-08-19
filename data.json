@@ -1242,6 +1242,15 @@
         "amount": 120,
         "wedding": true,
         "src": "x05geg0043"
+      },
+      {
+        "id": "bp4bb53xqy",
+        "time": "2026-08-19",
+        "cat": "其他杂费",
+        "note": "婚车装饰",
+        "amount": 80.1,
+        "wedding": true,
+        "src": "xtu09dixqu"
       }
     ],
     "files": []
@@ -1770,6 +1779,36 @@
       "note": "photobooth",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xtu09dixqu",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 80.1,
+      "time": "2026-08-19",
+      "note": "婚车装饰",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xwkb8l2086",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 27,
+      "time": "2026-08-19",
+      "note": "奶茶",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xxho4k9pu1",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 129,
+      "time": "2026-08-19",
+      "note": "欢喜串串",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
