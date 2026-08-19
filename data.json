@@ -1233,6 +1233,15 @@
         "amount": 454.5,
         "wedding": true,
         "src": "x9qxgc4h7k"
+      },
+      {
+        "id": "b3369286b7",
+        "time": "2026-06-18",
+        "cat": "其他杂费",
+        "note": "photobooth",
+        "amount": 1350,
+        "wedding": true,
+        "src": "x2xr9s26b5"
       }
     ],
     "files": []
@@ -1743,6 +1752,16 @@
       "amount": 454.5,
       "time": "2026-08-18",
       "note": "婚礼用品采购",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "x2xr9s26b5",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 1350,
+      "time": "2026-06-18",
+      "note": "photobooth",
       "toSaving": null,
       "toWedding": true
     }
