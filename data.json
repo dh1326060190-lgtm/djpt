@@ -1199,15 +1199,6 @@
         "src": "x4xlwxnksy"
       },
       {
-        "id": "bc3g73z045",
-        "time": "2026-08-18",
-        "cat": "其他杂费",
-        "note": "拍立得相纸",
-        "amount": 116,
-        "wedding": true,
-        "src": "x05geg0043"
-      },
-      {
         "id": "brckummhjk",
         "time": "2026-08-18",
         "cat": "其他杂费",
@@ -1242,6 +1233,15 @@
         "amount": 1350,
         "wedding": true,
         "src": "x2xr9s26b5"
+      },
+      {
+        "id": "bs9xop97g2",
+        "time": "2026-08-18",
+        "cat": "其他杂费",
+        "note": "拍立得相纸",
+        "amount": 120,
+        "wedding": true,
+        "src": "x05geg0043"
       }
     ],
     "files": []
@@ -1689,7 +1689,7 @@
       "id": "x05geg0043",
       "type": "expense",
       "cat": "购物",
-      "amount": 116,
+      "amount": 120,
       "time": "2026-08-18",
       "note": "拍立得相纸",
       "toSaving": null,
