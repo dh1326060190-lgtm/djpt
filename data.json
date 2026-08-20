@@ -1251,6 +1251,15 @@
         "amount": 80.1,
         "wedding": true,
         "src": "xtu09dixqu"
+      },
+      {
+        "id": "b2clrgvko9",
+        "time": "2026-08-20",
+        "cat": "其他杂费",
+        "note": "女方陪嫁",
+        "amount": 73,
+        "wedding": true,
+        "src": "xob3vkcko6"
       }
     ],
     "files": []
@@ -1845,6 +1854,16 @@
       "amount": 10,
       "time": "2026-08-20",
       "note": "运费",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xob3vkcko6",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 73,
+      "time": "2026-08-20",
+      "note": "女方陪嫁",
       "toSaving": null,
       "toWedding": true
     }
