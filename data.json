@@ -1827,6 +1827,26 @@
       "note": "欢喜串串",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "x9srgrpcgg",
+      "type": "expense",
+      "cat": "其他",
+      "amount": 20,
+      "time": "2026-08-20",
+      "note": "理发",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "x1hp76uc96",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 10,
+      "time": "2026-08-20",
+      "note": "运费",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
