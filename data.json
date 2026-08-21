@@ -120,10 +120,10 @@
       "title": "【备婚】选定婚庆策划",
       "cat": "备婚",
       "due": "2026-08-20 18:00",
-      "status": "待办",
+      "status": "已完成",
       "note": "婚庆团队对接",
       "remind": true,
-      "doneAt": null
+      "doneAt": "2026-08-21"
     }
   ],
   "topics": [
@@ -1013,7 +1013,7 @@
           "id": "w15",
           "title": "婚戒选购",
           "plan": "2026-10-10",
-          "status": "已完成",
+          "status": "待办",
           "note": "看中对戒"
         }
       ],
@@ -1231,7 +1231,7 @@
         "time": "2026-08-18",
         "cat": "其他杂费",
         "note": "婚礼用品采购",
-        "amount": 454.5,
+        "amount": 284.5,
         "wedding": true,
         "src": "x9qxgc4h7k"
       },
