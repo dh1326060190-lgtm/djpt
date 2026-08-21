@@ -1866,6 +1866,26 @@
       "note": "女方陪嫁",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xe9ecfpbke",
+      "type": "income",
+      "cat": "其他",
+      "amount": 170,
+      "time": "2026-08-20",
+      "note": "箱子退货",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xordicwvyj",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 200,
+      "time": "2026-08-20",
+      "note": "红色行李箱",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
