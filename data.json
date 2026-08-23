@@ -1270,6 +1270,15 @@
         "amount": 73,
         "wedding": true,
         "src": "xob3vkcko6"
+      },
+      {
+        "id": "bxf0yllbrg",
+        "time": "2026-08-22",
+        "cat": "其他杂费",
+        "note": "妈妈服",
+        "amount": 820,
+        "wedding": true,
+        "src": "xrtujmmbra"
       }
     ],
     "files": []
@@ -1401,6 +1410,12 @@
           "time": "2026-08-22",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "rdoej7tn3l",
+          "time": "2026-08-23",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -1428,6 +1443,12 @@
           "time": "2026-08-20",
           "amount": 648.5,
           "note": "之前存的"
+        },
+        {
+          "id": "rqtfetzvlu",
+          "time": "2026-08-23",
+          "amount": 13.14,
+          "note": "结余"
         }
       ]
     }
@@ -1912,6 +1933,16 @@
       "note": "火锅食材",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xrtujmmbra",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 820,
+      "time": "2026-08-22",
+      "note": "妈妈服",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
