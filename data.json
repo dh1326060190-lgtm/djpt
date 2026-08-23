@@ -1943,6 +1943,26 @@
       "note": "妈妈服",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xzzf862jc4",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 70,
+      "time": "2026-08-23",
+      "note": "午饭",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xdegyji8cq",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 60,
+      "time": "2026-08-23",
+      "note": "奶茶",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
