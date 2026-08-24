@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1288,6 +1288,15 @@
         "amount": 2000,
         "wedding": true,
         "src": "xzfo5vnsjp"
+      },
+      {
+        "id": "b3o1vmsk90",
+        "time": "2026-08-24",
+        "cat": "其他杂费",
+        "note": "跟妆，婚鞋，婚包",
+        "amount": 3000,
+        "wedding": true,
+        "src": "x5uxdi2k8y"
       }
     ],
     "files": []
@@ -1980,6 +1989,16 @@
       "amount": 2000,
       "time": "2026-08-23",
       "note": "跟拍",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "x5uxdi2k8y",
+      "type": "expense",
+      "cat": "其他",
+      "amount": 3000,
+      "time": "2026-08-24",
+      "note": "跟妆，婚鞋，婚包",
       "toSaving": null,
       "toWedding": true
     }
