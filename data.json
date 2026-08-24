@@ -2001,6 +2001,16 @@
       "note": "跟妆，婚鞋，婚包",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xo1am59lhz",
+      "type": "income",
+      "cat": "购物",
+      "amount": 119.97,
+      "time": "2026-08-24",
+      "note": "睡衣退货",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
