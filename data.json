@@ -2023,6 +2023,26 @@
       "note": "睡衣退货",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xgl4exwiz6",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 31.9,
+      "time": "2026-08-25",
+      "note": "无骨鸡爪",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xd46wdxqgv",
+      "type": "expense",
+      "cat": "餐饮",
+      "amount": 12.8,
+      "time": "2026-08-25",
+      "note": "瑞幸咖啡",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
