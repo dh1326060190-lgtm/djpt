@@ -2049,6 +2049,26 @@
       "note": "瑞幸咖啡",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xxqd54urwy",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 3.11,
+      "time": "2026-08-26",
+      "note": "电机",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xdt2in476v",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 47.5,
+      "time": "2026-08-26",
+      "note": "盒马采购",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
