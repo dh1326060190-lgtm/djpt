@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "saving",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1459,6 +1459,12 @@
         {
           "id": "rs7hzf1za1",
           "time": "2026-08-26",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "rhlmtfi3q1",
+          "time": "2026-08-27",
           "amount": 30,
           "note": "结余"
         }
