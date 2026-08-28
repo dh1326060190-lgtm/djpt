@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1306,6 +1306,15 @@
         "amount": 342.71,
         "wedding": true,
         "src": "xtbqt4mwc6"
+      },
+      {
+        "id": "bsy1ncap3h",
+        "time": "2026-08-26",
+        "cat": "其他杂费",
+        "note": "西服",
+        "amount": 557.62,
+        "wedding": true,
+        "src": "xvd6yt2p3c"
       }
     ],
     "files": []
@@ -2098,6 +2107,16 @@
       "amount": 342.71,
       "time": "2026-08-26",
       "note": "结婚用品采购",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xvd6yt2p3c",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 557.62,
+      "time": "2026-08-26",
+      "note": "西服",
       "toSaving": null,
       "toWedding": true
     }
