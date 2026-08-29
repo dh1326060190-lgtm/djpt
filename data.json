@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -2146,6 +2146,16 @@
       "amount": 5410.16,
       "time": "2026-08-20",
       "note": "7月份工资",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xw8z08saxs",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 15,
+      "time": "2026-08-29",
+      "note": "挂钩",
       "toSaving": null,
       "toWedding": false
     }
