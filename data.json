@@ -2158,6 +2158,16 @@
       "note": "挂钩",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xy2p81mug5",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 319,
+      "time": "2026-08-29",
+      "note": "娘家赣饭",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
