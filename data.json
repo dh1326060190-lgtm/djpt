@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -2166,6 +2166,16 @@
       "amount": 319,
       "time": "2026-08-29",
       "note": "娘家赣饭",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "xiet0mocn3",
+      "type": "expense",
+      "cat": "交通",
+      "amount": 12,
+      "time": "2026-08-30",
+      "note": "停车费",
       "toSaving": null,
       "toWedding": false
     }
