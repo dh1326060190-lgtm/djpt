@@ -2178,6 +2178,16 @@
       "note": "停车费",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xz892d40wi",
+      "type": "income",
+      "cat": "购物",
+      "amount": 150.4,
+      "time": "2026-08-29",
+      "note": "退货",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
