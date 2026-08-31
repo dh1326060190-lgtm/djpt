@@ -1324,6 +1324,15 @@
         "amount": 665.79,
         "wedding": true,
         "src": "xl31tnhvuc"
+      },
+      {
+        "id": "bg9vo63cd1",
+        "time": "2026-08-31",
+        "cat": "其他杂费",
+        "note": "衬衫，婚房摆件和被子",
+        "amount": 277.3,
+        "wedding": true,
+        "src": "x82vl6cccx"
       }
     ],
     "files": []
@@ -2188,6 +2197,16 @@
       "note": "退货",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "x82vl6cccx",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 277.3,
+      "time": "2026-08-31",
+      "note": "衬衫，婚房摆件和被子",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
