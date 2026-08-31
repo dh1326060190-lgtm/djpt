@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -2231,6 +2231,16 @@
       "note": "衬衫，婚房摆件和被子",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xfn91qcdlo",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 44.42,
+      "time": "2026-08-31",
+      "note": "打包材料",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
