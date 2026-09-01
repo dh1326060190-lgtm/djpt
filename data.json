@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "ledger",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -2245,6 +2245,16 @@
       "amount": 44.42,
       "time": "2026-08-31",
       "note": "打包材料",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "x0bhp3ss8d",
+      "type": "income",
+      "cat": "兼职",
+      "amount": 288.88,
+      "time": "2026-09-01",
+      "note": "帮忙搞车",
       "toSaving": null,
       "toWedding": false
     }
