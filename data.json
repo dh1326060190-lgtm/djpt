@@ -1333,6 +1333,15 @@
         "amount": 277.3,
         "wedding": true,
         "src": "x82vl6cccx"
+      },
+      {
+        "id": "bs4zed9jl3",
+        "time": "2026-09-02",
+        "cat": "其他杂费",
+        "note": "备婚采购",
+        "amount": 312.07,
+        "wedding": true,
+        "src": "xry4vadjkx"
       }
     ],
     "files": []
@@ -2273,6 +2282,16 @@
       "note": "点咖啡",
       "toSaving": null,
       "toWedding": false
+    },
+    {
+      "id": "xry4vadjkx",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 312.07,
+      "time": "2026-09-02",
+      "note": "备婚采购",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
