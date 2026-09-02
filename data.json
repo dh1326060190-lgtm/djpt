@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "saving",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1530,6 +1530,12 @@
           "time": "2026-09-01",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "rnmc6bd8ks",
+          "time": "2026-09-02",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -2255,6 +2261,16 @@
       "amount": 288.88,
       "time": "2026-09-01",
       "note": "帮忙搞车",
+      "toSaving": null,
+      "toWedding": false
+    },
+    {
+      "id": "x6ergl85oh",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 67.4,
+      "time": "2026-09-01",
+      "note": "点咖啡",
       "toSaving": null,
       "toWedding": false
     }
