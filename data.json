@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "saving",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1557,6 +1557,12 @@
           "time": "2026-09-04",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "r5aibbpj8d",
+          "time": "2026-09-05",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -2302,6 +2308,16 @@
       "amount": 312.07,
       "time": "2026-09-02",
       "note": "备婚采购",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xka4lz4mw5",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 20.5,
+      "time": "2026-09-04",
+      "note": "喜糖盒",
       "toSaving": null,
       "toWedding": true
     }
