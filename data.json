@@ -2320,6 +2320,16 @@
       "note": "喜糖盒",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xlfxtsnx0k",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 882.65,
+      "time": "2026-09-05",
+      "note": "氨糖",
+      "toSaving": null,
+      "toWedding": false
     }
   ],
   "diet": {
