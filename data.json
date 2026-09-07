@@ -1,5 +1,5 @@
 {
-  "currentPage": "ledger",
+  "currentPage": "wedding",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -1563,6 +1563,18 @@
           "time": "2026-09-05",
           "amount": 30,
           "note": "结余"
+        },
+        {
+          "id": "r8gu93btt2",
+          "time": "2026-09-07",
+          "amount": 30,
+          "note": "结余"
+        },
+        {
+          "id": "rhfvgpk03h",
+          "time": "2026-09-06",
+          "amount": 30,
+          "note": "结余"
         }
       ]
     },
@@ -1594,6 +1606,12 @@
         {
           "id": "rqtfetzvlu",
           "time": "2026-08-23",
+          "amount": 13.14,
+          "note": "结余"
+        },
+        {
+          "id": "row3p8w9i4",
+          "time": "2026-09-06",
           "amount": 13.14,
           "note": "结余"
         }
