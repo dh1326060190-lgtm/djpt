@@ -1351,6 +1351,15 @@
         "amount": 113.1,
         "wedding": true,
         "src": "xzzb1qm7xr"
+      },
+      {
+        "id": "bzq2zv3fqx",
+        "time": "2026-09-09",
+        "cat": "其他杂费",
+        "note": "备婚物品",
+        "amount": 74.3,
+        "wedding": true,
+        "src": "xghwzg6fqr"
       }
     ],
     "files": []
@@ -2381,6 +2390,16 @@
       "amount": 113.1,
       "time": "2026-09-09",
       "note": "李健礼物",
+      "toSaving": null,
+      "toWedding": true
+    },
+    {
+      "id": "xghwzg6fqr",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 74.3,
+      "time": "2026-09-09",
+      "note": "备婚物品",
       "toSaving": null,
       "toWedding": true
     }
