@@ -2402,6 +2402,16 @@
       "note": "备婚物品",
       "toSaving": null,
       "toWedding": true
+    },
+    {
+      "id": "xltnl0z41h",
+      "type": "expense",
+      "cat": "购物",
+      "amount": 126.76,
+      "time": "2026-09-09",
+      "note": "备婚采购",
+      "toSaving": null,
+      "toWedding": true
     }
   ],
   "diet": {
