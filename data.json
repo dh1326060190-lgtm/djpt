@@ -1,5 +1,5 @@
 {
-  "currentPage": "saving",
+  "currentPage": "diet",
   "settings": {
     "userName": "绘野",
     "theme": "green",
@@ -2437,9 +2437,9 @@
       "date": "2026-08-03",
       "meals": {
         "早餐": {
-          "done": false,
-          "kcal": 0,
-          "photo": null
+          "done": true,
+          "kcal": 420,
+          "photo": "📷"
         },
         "午餐": {
           "done": false,
@@ -2455,7 +2455,13 @@
       "target": 1800
     },
     "monthRate": 0.82,
-    "history": []
+    "history": [
+      {
+        "date": "2026-08-03",
+        "kcal": 420,
+        "rate": 0.33
+      }
+    ]
   },
   "moods": [
     {
